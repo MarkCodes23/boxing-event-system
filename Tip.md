@@ -1,0 +1,1 @@
+Before tagging something as v1, make sure your code is really stable and functional.
